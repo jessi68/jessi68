@@ -15,4 +15,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: I tryied to programming readable and reusable. I also concerned about optimizing my project.
 - ⚡ Fun fact: ...
+--> my stack: 
+   language: c++, java, python, javascript, typescript, dart
+   framework: flutter, react, spring boot( soon)
 --> I am senior student. I am finding some job related to frontend.
