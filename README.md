@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessi68&&show_icons=true&theme=dark&show_icons=true)
 
 
-- 🔭 I’m currently working on react, typescript.
+- 🔭 I’m currently working on react, typescript, unity.
 - 🌱 I’m currently learning on unity. I interested in metaverse and game development. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,5 +17,5 @@
 - ⚡ Fun fact: ...
 --> my stack: 
    language: c++, java, python, javascript, typescript, dart
-   framework: flutter, react, spring boot( soon)
+   framework: flutter, react
 --> I am senior student.
