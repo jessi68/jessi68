@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on react, typescript.
-- 🌱 I’m currently learning on java. I will learning spring boot soon.
+- 🌱 I’m currently learning on unity. I interested in metaverse and game development. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,4 +18,4 @@
 --> my stack: 
    language: c++, java, python, javascript, typescript, dart
    framework: flutter, react, spring boot( soon)
---> I am senior student. I am finding some job related to frontend.
+--> I am senior student.
