@@ -18,4 +18,4 @@
 --> my stack: 
    language: c++, java, python, javascript, typescript, dart
    framework: flutter, react
---> I am senior student.
+--> I am senior student. I want to be a devloper who find out main reason of problem not just memoerizing. 
