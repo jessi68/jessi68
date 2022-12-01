@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on react, typescript, unity.
-- 🌱 I’m currently learning on unity. I interested in metaverse and game development. 
+- 🌱 I’m currently learning on unity, opengl. I interested in metaverse and game development. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,4 +18,4 @@
 --> my stack: 
    language: c++, java, python, javascript, typescript, dart
    framework: flutter, react
---> I am senior student. I want to be a devloper who find out main reason of problem not just memoerizing. 
+--> I am senior student. I want to be a devloper who find out main reason of problem not just memorizing. 
